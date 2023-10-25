@@ -1,9 +1,33 @@
+body {
+    background-color: #D2D5DD;
+}
 
-:root {
-    --cadet-gray: #8da7beff;
-    --dark-purple: #31263eff;
-    --raisin-black: #221e22ff;
-    --columbia-blue: #cde6f5ff;
-    --cadet-gray-2: #87919eff;
-    --cadet-gray-3: #87919eff;
+.introduction {
+    font-size: 25px;
+    color: black;
+}
+
+.header1 {
+    color: white;
+}
+.paragraph1 {
+    width: 600px;
+    height: 70px;
+    background-color: #8da7beff;
+    text-align: center;
+}
+
+
+
+
+
+.flex-container {
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    align-items: center;
+    height: 400px;
+    width: 250px;
+    background-color: 
 }
